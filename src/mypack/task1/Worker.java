@@ -1,4 +1,4 @@
-package MyPack.Task1;
+package mypack.task1;
 
 public class Worker {
 

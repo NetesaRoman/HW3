@@ -1,4 +1,4 @@
-package MyPack.Task2.b;
+package mypack.task2.samenameclasstwo;
 
 public class SameName {
     public void info(){

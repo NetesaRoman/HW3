@@ -1,4 +1,4 @@
-package MyPack.Task3;
+package mypack.task3;
 
 public class Car {
 
